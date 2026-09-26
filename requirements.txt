@@ -1,0 +1,6 @@
+python-telegram-bot
+Pillow
+arabic-reshaper
+python-bidi
+python-dotenv
+staypresent[prod]
